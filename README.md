@@ -23,7 +23,6 @@ Bem-vindo ao meu perfil GitHub!
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub de Talita](https://github-readme-stats.vercel.app/api?username=talitaester&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=talitaester&layout=compact&theme=radical)
 
