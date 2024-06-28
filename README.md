@@ -16,9 +16,10 @@ Bem-vindo ao meu perfil GitHub!
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B)
 
 ## Estatísticas do GitHub
 
@@ -28,10 +29,9 @@ Bem-vindo ao meu perfil GitHub!
 
 ## Projetos
 
-- [Projeto 1](https://github.com/talitaester/SIOT-MM-implementations)
-- [Projeto 2](https://github.com/talitaester/projeto2)
+- [A mobility model for the Internet of Things](https://github.com/talitaester/SIOT-MM-implementations)
+
 
 ## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/talitaester)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/talitaester)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](www.linkedin.com/in/talita-ester-037a44140)
