@@ -7,7 +7,6 @@ Bem-vindo ao meu perfil GitHub!
 - 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web.
 - 🌱 Atualmente estou aprendendo novas tecnologias front-end e back-end.
 - 📫 Como chegar até mim: [talitaalves791@gmail.com](talitaalves791@gmail.com)
-- 😄 Pronomes: ela/dela
 - ⚡ Fato curioso: Eu adoro ler, fazer crochê e promgramar!
 
 ## Tecnologias e Ferramentas
